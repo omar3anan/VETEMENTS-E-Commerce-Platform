@@ -5,7 +5,7 @@ Build an E-Commerce website with MERN Stack and Microservices with API Gateway a
 <h2>Registration Page</h2>
 <img src="Images/5.png" width=1200 height=550>
 <h2>Database of the Clients</h2>
-<img src="Images/6.png" width=1300 height=550>
+<img src="Images/6.png" width=1500 height=700>
 <h2>Home Page</h2>
 <img src="Images/7.png" width=1200 height=550>
 <h2>View Products</h2>
@@ -14,7 +14,7 @@ Build an E-Commerce website with MERN Stack and Microservices with API Gateway a
 <img src="Images/10.png" width=1200 height=550>
 <img src="Images/11.png" width=1200 height=550>
 <h2>View products Database</h2>
-<img src="Images/17.png" width=1200 height=550>
+<img src="Images/17.png" width=1500 height=700>
 <h2>Add Products and Delete Products by Postman</h2>
 <img src="Images/16.png" width=1200 height=550>
 <h2>Product added successfully</h2>
@@ -28,7 +28,7 @@ Build an E-Commerce website with MERN Stack and Microservices with API Gateway a
 <h2>Checkout Database</h2>
 <img src="Images/15.png" width=1400 height=500>
 <h2>Your order is successfully completed</h2>
-<img src="Images/19.png" width=1400 height=500>
+<img src="Images/19.png" width=1500 height=700>
 <h2>Microservices Postman</h2>
 <img src="Images/20.png" width=1200 height=550>
 
