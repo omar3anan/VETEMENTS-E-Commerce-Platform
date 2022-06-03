@@ -1,11 +1,6 @@
 # VETEMENTS-E-Commerce-website-with-MERN-Stack
 Build an E-Commerce website with MERN Stack and Microservices with API Gateway and http calls between the Frontend as React and the Backend as NodeJS
 <h2>Screenshot page 1</h2>
-<img src="Images/1.png" width=1200 height=550>
-<h2>Screenshot page 2</h2>
-<img src="Images/2.png" width=1200 height=550>
-<h2>Screenshot page 3</h2>
-<img src="Images/3.png" width=1200 height=600>
 <h2>Screenshot page 4</h2>
 <img src="Images/4.png" width=1200 height=550>
 <h2>Screenshot page 5</h2>
