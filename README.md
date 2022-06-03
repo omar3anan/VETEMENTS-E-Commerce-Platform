@@ -15,6 +15,10 @@ Build an E-Commerce website with MERN Stack and Microservices with API Gateway a
 <img src="Images/11.png" width=1200 height=550>
 <h2>View products Database</h2>
 <img src="Images/17.png" width=1200 height=550>
+<h2>Add Products and Delete Products by Postman</h2>
+<img src="Images/16.png" width=1200 height=550>
+<h2>Product added successfully</h2>
+<img src="Images/18.png" width=1200 height=550>
 <h2>Add to your Wishlist</h2>
 <img src="Images/12.png" width=1200 height=550>
 <h2>Wishlist Database</h2>
@@ -23,19 +27,11 @@ Build an E-Commerce website with MERN Stack and Microservices with API Gateway a
 <img src="Images/14.png" width=1200 height=550>
 <h2>Checkout Database</h2>
 <img src="Images/15.png" width=1300 height=550>
-<h2>Microservices Postman</h2>
-<img src="Images/16.png" width=1200 height=550>
-
-<h2>Screenshot page 6</h2>
-<img src="Images/18.png" width=1200 height=550>
-<h2>Screenshot page 7</h2>
+<h2>Your order is successfully completed</h2>
 <img src="Images/19.png" width=1200 height=550>
-<h2>Screenshot page 8</h2>
+<h2>Microservices Postman</h2>
 <img src="Images/20.png" width=1200 height=550>
-<h2>Screenshot page 9</h2>
-<img src="Images/21.png" width=1200 height=550>
-<h2>Screenshot page 10</h2>
-<img src="Images/22.png" width=1200 height=550>
+
 
 
 
