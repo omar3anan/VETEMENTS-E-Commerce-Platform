@@ -22,7 +22,7 @@ Build an E-Commerce website with MERN Stack and Microservices with API Gateway a
 <h2>Add to your Wishlist</h2>
 <img src="Images/12.png" width=1200 height=550>
 <h2>Wishlist Database</h2>
-<img src="Images/13.png" width=1500 height=700>
+<img src="Images/13.png" width=1500 height=600>
 <h2>Checkout</h2>
 <img src="Images/14.png" width=1200 height=550>
 <h2>Checkout Database</h2>
